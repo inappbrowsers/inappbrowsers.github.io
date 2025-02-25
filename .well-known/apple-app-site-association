@@ -3,13 +3,16 @@
         "apps": [],
         "details": [
             {
-                "appIDs": ["N7QV67L54H.au.com.nab.mobile.react-native-xnfiab", "N7QV67L54H.au.com.nab.mobile.react-native-support-demo", "N7QV67L54H.au.com.nab.NABXEdgeTest"],
-                "components": [
-                    {
-                        "/": "*",
-                        "comment": "Matches for the root domain."
-                    }
-                ]
+                "appID": "N7QV67L54H.au.com.nab.NABXEdgeTest",
+                "paths": ["*"]
+            },
+            {
+                "appID": "N7QV67L54H.au.com.nab.mobile.react-native-xnfiab",
+                "paths": ["*"]
+            },
+            {
+                "appID": "N7QV67L54H.au.com.nab.mobile.react-native-support-demo",
+                "paths": ["*"]
             }
         ]
     }
