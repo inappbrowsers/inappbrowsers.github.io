@@ -4,15 +4,15 @@
         "details": [
             {
                 "appID": "N7QV67L54H.au.com.nab.mobile.react-native-xnfiab",
-                "paths": ["/sandbox"]
+                "paths": ["*"]
             },
             {
                 "appID": "N7QV67L54H.au.com.nab.NABXEdgeTest",
-                "paths": ["/testharness"]
+                "paths": ["*"]
             },
             {
                 "appID": "N7QV67L54H.au.com.nab.mobile.react-native-support-demo",
-                "paths": ["/foundation"]
+                "paths": ["*"]
             }
         ]
     }
