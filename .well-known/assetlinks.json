@@ -7,7 +7,8 @@
       "sha256_cert_fingerprints": [
         "FA:C6:17:45:DC:09:03:78:6F:B9:ED:E6:2A:96:2B:39:9F:73:48:F0:BB:6F:89:9B:83:32:66:75:91:03:3B:9C"
       ]
-    }
+    },
+    "site": "https://inappbrowsers.github.io/sandbox"
   },
   {
     "relation": ["delegate_permission/common.handle_all_urls"],
@@ -17,7 +18,8 @@
       "sha256_cert_fingerprints": [
         "FA:C6:17:45:DC:09:03:78:6F:B9:ED:E6:2A:96:2B:39:9F:73:48:F0:BB:6F:89:9B:83:32:66:75:91:03:3B:9C"
       ]
-    }
+    },
+    "site": "https://inappbrowsers.github.io/testharness"
   },
   {
     "relation": ["delegate_permission/common.handle_all_urls"],
@@ -27,7 +29,8 @@
       "sha256_cert_fingerprints": [
         "E0:1F:39:9D:73:CB:72:86:E7:61:55:2A:0F:97:7D:30:97:99:D9:EF:D8:28:DB:35:4D:91:75:5B:C4:B4:3B:DB"
       ]
-    }
+    },
+    "site": "https://inappbrowsers.github.io/foundation"
   }
 
 ]
