@@ -3,8 +3,16 @@
         "apps": [],
         "details": [
             {
-                "appIDs": ["N7QV67L54H.au.com.nab.mobile.react-native-xnfiab", "N7QV67L54H.au.com.nab.mobile.react-native-support-demo", "N7QV67L54H.au.com.nab.NABXEdgeTest"],
-                "paths": ["*"]
+                "appID": "N7QV67L54H.au.com.nab.mobile.react-native-xnfiab",
+                "paths": ["/11"]
+            },
+            {
+                "appID": "N7QV67L54H.au.com.nab.NABXEdgeTest",
+                "paths": ["/22"]
+            },
+            {
+                "appID": "N7QV67L54H.au.com.nab.mobile.react-native-support-demo",
+                "paths": ["/33"]
             }
         ]
     }
